@@ -17,4 +17,3 @@ function setData(string memory s)public {
 }
 
 }
-![alt-text](m1.PNG)
