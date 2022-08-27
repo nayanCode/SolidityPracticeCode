@@ -11,7 +11,6 @@ mapping(address => string) public  names;
 //   
 // ]
 
-
 function setData(string memory s)public {
     names[msg.sender] = s;
 }
